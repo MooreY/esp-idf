@@ -1,4 +1,5 @@
-/* i2c - Example
+/* 
+   24AA01H EEPROM Chip Example
 
    For other examples please check:
    https://github.com/espressif/esp-idf/tree/master/examples
